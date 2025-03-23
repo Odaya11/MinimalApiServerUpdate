@@ -2831,11 +2831,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApi\\MinimalApiServer\\Server\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApiServer\\MinimalApiServerUpdate\\Server\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApi\\MinimalApiServer\\Server\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApiServer\\MinimalApiServerUpdate\\Server\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\a0547\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApi\\MinimalApiServer\\Server\\obj\\",
+      "outputPath": "C:\\Users\\a0547\\OneDrive\\שולחן העבודה\\תכנות תשפה\\פרקטיקוד\\Practicode3\\MinimalApiServer\\MinimalApiServerUpdate\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
